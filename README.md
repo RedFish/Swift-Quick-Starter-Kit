@@ -1,4 +1,5 @@
 # Google Code Jam 2016 - Swift Quick Starter Kit
+_Xcode 7 - Swift 2_
 _Author: Richard GUERCI_
 
 ### Need help :
